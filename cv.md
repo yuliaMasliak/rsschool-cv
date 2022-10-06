@@ -35,7 +35,7 @@ __Task: Write a script that calculates the volume of a cylinder from the paramet
 ### Languages:
 - Languages:
 - English - C2 (according to the [Certificate](https://www.efset.org/cert/BRrg7a) of EFset)
- ![Efset Certificate](https://github.com/yuliaMasliak/rsschool-cv/blob/main/Screenshot.png)
+ ![Efset Certificate](https://github.com/yuliaMasliak/rsschool-cv/blob/gh-pages/efset_masliak_2022.png)
 - Ukrainian - Native
 - German - Basic
 - Russian - Proficient
