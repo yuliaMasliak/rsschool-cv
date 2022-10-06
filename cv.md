@@ -9,7 +9,7 @@
 [LinkedIn](http://linkedin.com/in/yulia-masliak-b3a6ba7a)
 ***
 ### Profile summary:  
-Have been working in marketing and public relations for the last 10 years I finally decided to switch and start learning programming. My main goal is to become a professional developer. At first I intend to study fundamentally fFrontend languages, frameworks etc., but later I plan also try to learn backend languages.  
+Have been working in marketing and public relations for the last 10 years I finally decided to switch and start learning programming. My main goal is to become a professional developer. At first I intend to study fundamentally frontend languages, frameworks etc., but later I plan also try to learn backend languages.  
 Since July 2022 I have been studying on my own, devoting approx. 8 hours per day to learning. I have learned the basic languages of website layout (HTML, CSS) and JavaScript essentials. I have gained an experience in making web pages and multi-page websites using such tools as API, axios, Bootstrap, Google fonts, React.  
 ***
 ### Skills:
