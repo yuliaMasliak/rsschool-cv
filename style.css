@@ -19,6 +19,30 @@ body {
     background-color: white;
     max-width: 1000px;
     margin: 60px auto;
+    border-radius: 8px;
+    }
+    .navbar-links{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    nav ul{
+        margin: 15px;
+    }
+    nav li {
+        font-size: 18px;
+        display: inline;
+        margin-right: 15px;
+        
+        
+        
+    }
+    nav li a{
+        text-decoration: none;
+        color:black
+    }
+    nav li a:active {
+        color:blue;
     }
     .about-section {
         padding: 45px;
@@ -59,6 +83,9 @@ h2 {
     font-weight: 500;
     padding: 0px;
 }
-.profile {
+#profile {
    text-align: justify;
+}
+.years{
+    padding-left: 90px;
 }
