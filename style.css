@@ -8,17 +8,20 @@ body {
    background-image: url(./images/bg-image.png); 
    font-family: var(--primary-font-family);
    }
+   .navbar {
+    background-color: white;
+   }
    #logo {
-    margin: 20px;
+    margin: 10px;
    }
 
 .container {
     background-color: white;
     max-width: 1000px;
-    margin: 40px auto;
+    margin: 60px auto;
     }
     .about-section {
-        padding: 30px;
+        padding: 45px;
         border-radius: 20%;
     }
 .hello-text {
@@ -44,8 +47,18 @@ h2 {
     font-size: 18px;
    
 }
-.contact-links {
+.links {
     text-decoration: none;}
 .image-block {
+    padding: 0px;}
+    .img-fluid {
+    border-radius: 5%;
+}
+.p-heading {
+    font-size: 26px;
+    font-weight: 500;
     padding: 0px;
+}
+.profile {
+   text-align: justify;
 }
