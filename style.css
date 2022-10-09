@@ -1,0 +1,51 @@
+:root {
+    --primary-font-family: 'Poppins', sans-serif;
+    --secondary-color: #f5f2fe;
+    --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    
+  }
+body {
+   background-image: url(./images/bg-image.png); 
+   font-family: var(--primary-font-family);
+   }
+   #logo {
+    margin: 20px;
+   }
+
+.container {
+    background-color: white;
+    max-width: 1000px;
+    margin: 40px auto;
+    }
+    .about-section {
+        padding: 30px;
+        border-radius: 20%;
+    }
+.hello-text {
+    font-family: var(--primary-font-family);
+    font-size:  36px;
+    font-weight: 700;
+    
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 64px;
+}
+h2 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: var(--primary-font-family);
+}
+.contact-inf  {
+    text-decoration: underline;
+}
+.contacts {
+    font-size: 18px;
+   
+}
+.contact-links {
+    text-decoration: none;}
+.image-block {
+    padding: 0px;
+}
