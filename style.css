@@ -1,16 +1,10 @@
 :root {
     --primary-font-family: 'Poppins', sans-serif;
-<<<<<<< Updated upstream
-   
-    
-  }
-=======
    }
->>>>>>> Stashed changes
 body {
    background-color: #F8F9FA; 
    font-family: var(--primary-font-family);
-   padding-top: 25px;
+   padding-top: 45px;
    }
 .fixed-nav {
    position: fixed;
@@ -20,11 +14,7 @@ body {
 .navbar {
     background-color: white;
    }
-<<<<<<< Updated upstream
-   .logo {
-=======
 .logo {
->>>>>>> Stashed changes
     margin: 10px;
    }
 
@@ -45,9 +35,6 @@ body {
         text-decoration: none;
         color:black
     }
-<<<<<<< Updated upstream
-   
-=======
     .container {
         background-color: white;
         max-width: 1000px;
@@ -55,7 +42,6 @@ body {
         margin-bottom: 60px;
         border-radius: 8px;
         }
->>>>>>> Stashed changes
     .about-section {
         padding: 45px;
         border-radius: 20%;
@@ -87,8 +73,6 @@ h2 {
     text-decoration: none;
 color: #5551FF;
 }
-<<<<<<< Updated upstream
-=======
 .btn-primary {
     background-color: #5551FF;
     border: 1px solid #5551FF;
@@ -99,7 +83,6 @@ color: #5551FF;
     border: 1px solid #5551FF;
     color: #5551FF;
 }
->>>>>>> Stashed changes
 .image-block {
     padding: 0px;}
     .img-fluid {
@@ -107,20 +90,15 @@ color: #5551FF;
 }
 .p-heading {
     font-family: 'Playfair Display', serif;
-<<<<<<< Updated upstream
-    font-weight: 700;
-=======
-    text-align: left;
     font-weight: 800;
     font-size: 26px;
     font-weight: 500;
-    padding: 30px 50px 20px 50px;
+    padding: 50px 50px 20px 50px;
     margin-top: 40px;
 }
 .profile-heading {
     font-family: 'Playfair Display', serif;
     font-weight: 800;
->>>>>>> Stashed changes
     font-size: 26px;
     font-weight: 500;
     padding: 0px 50px 20px 50px;
@@ -129,11 +107,7 @@ color: #5551FF;
    text-align: justify;
 }
 .years{
-<<<<<<< Updated upstream
     padding-left: 90px;
-=======
-    padding-left: 50px;
->>>>>>> Stashed changes
 }
 .footer {
    padding: 10px 50px 20px 50px;
@@ -143,18 +117,11 @@ color: #5551FF;
     }
    #footer-author{
     opacity: 0.8;
-<<<<<<< Updated upstream
-    position: relative;
-    margin: auto;
-    text-align: center;
-    top: -40px;
-=======
     margin: auto;
     text-align: center;
     position: relative;
     left: -70px;
 
->>>>>>> Stashed changes
    } 
    #date{
     font-size: 14px;
