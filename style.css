@@ -1,0 +1,128 @@
+:root {
+    --primary-font-family: 'Poppins', sans-serif;
+   }
+body {
+   background-color: #F8F9FA; 
+   font-family: var(--primary-font-family);
+   padding-top: 25px;
+   }
+.fixed-nav {
+   position: fixed;
+   top: 0px;
+   width: 100%;
+   }
+.navbar {
+    background-color: white;
+   }
+.logo {
+    margin: 10px;
+   }
+
+.navbar-links{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    nav ul{
+        margin: 15px;
+    }
+    nav li {
+        font-size: 18px;
+        display: inline;
+        margin-right: 15px;   
+    }
+    nav li a{
+        text-decoration: none;
+        color:black
+    }
+    .container {
+        background-color: white;
+        max-width: 1000px;
+        margin: 130px auto;
+        margin-bottom: 60px;
+        border-radius: 8px;
+        }
+    .about-section {
+        padding: 45px;
+        border-radius: 20%;
+    }
+.hello-text {
+    font-family: var(--primary-font-family);
+    font-size:  36px;
+    font-weight: 700;
+    
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 64px;
+}
+h2 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: var(--primary-font-family);
+}
+.contact-inf  {
+    text-decoration: underline;
+}
+.contacts {
+    font-size: 18px;
+   
+}
+.links {
+    text-decoration: none;
+color: #5551FF;
+}
+.btn-primary {
+    background-color: #5551FF;
+    border: 1px solid #5551FF;
+    color: white;
+}
+.btn-primary:hover {
+    background-color: white;
+    border: 1px solid #5551FF;
+    color: #5551FF;
+}
+.image-block {
+    padding: 0px;}
+    .img-fluid {
+    border-radius: 5%;
+}
+.p-heading {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 26px;
+    font-weight: 500;
+    padding: 50px 50px 20px 50px;
+    margin-top: 40px;
+}
+.profile-heading {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 26px;
+    font-weight: 500;
+    padding: 0px 50px 20px 50px;
+}
+#profile {
+   text-align: justify;
+}
+.years{
+    padding-left: 90px;
+}
+.footer {
+   padding: 10px 50px 20px 50px;
+   background-color: white;
+    height: 80px;
+    margin: 20px 0px 0px 0px;
+    }
+   #footer-author{
+    opacity: 0.8;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    left: -70px;
+
+   } 
+   #date{
+    font-size: 14px;
+   }
