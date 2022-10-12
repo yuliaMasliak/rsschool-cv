@@ -20,11 +20,12 @@
             <li><a href="#profile">Skills</a></li>
             <li><a href="#experience">Experience</a></li>
             <li><a href="#projects">Projects</a></li>
+            <li><a href="#code">My Code</a></li>
             <li><a href="./index.html">Home</a></li>
           </ul>
     </nav>
   </div>
-  <main>
+  <header>
     <div class="container">
         <div class="row">
           <div class="col-6 about-section">
@@ -51,6 +52,10 @@
             >
           </div>
         </div>
+      </div>
+  </header>
+  <main>
+    <div class="container">
         <div class="row p-5 bg-light">
                 <h2 class="profile-heading">Profile summary:</h2>
                 <p id="profile">
@@ -63,31 +68,25 @@
                 <ul>
                     <li>HTML, CSS</li>
                     <li>JavaScript Basics, React Basics</li>
-                     <li>Git, GitHub</li>   
-                     <li>VS Code</li>   
-                        
+                     <li>Git, GitHub</li>
+                     <li>VS Code</li>
                 </ul>
-             
             </div>
             <div class="col-4 pe-5">
-               
                 <h2 class="p-heading">Courses:</h2>
                 <ul>
-                    <li><a href="https://www.shecodes.io/graduates/50430-yulia-masliak" class="links">SheCodes</a> (<a href="./images/shecodes.png" target="_blank" class="links">Certificate</a>): Frontend, Responsive, React (in progress);</li>
-                    <li><a href="https://itvdn.com/" class="links">ITVDN</a> (<a href="./images/ITVDN-js.jpg" target="_blank" class="links">Certificate</a>): JavaScript Essential</li>
+                    <li><a href="https://www.shecodes.io/graduates/50430-yulia-masliak" class="links">SheCodes</a> (<a href="https://www.shecodes.io/certificates/0bebe6c836722c4777d9e0d23d38195f" target="_blank" class="links">Certificate</a>): Frontend, Responsive, React (in progress);</li>
+                    <li><a href="https://itvdn.com/" class="links">ITVDN</a> (<a href="https://testprovider.com/ru/search-certificate/tp62318129" target="_blank" class="links">Certificate</a>): JavaScript Essential</li>
                 </ul>
-               
             </div>
             <div class="col-4 pe-5">
-               
                 <h2 class="p-heading">Languages:</h2>
                 <ul>
                     <li>English - C2 (according to the <a href="https://www.efset.org/cert/BRrg7a" target="_blank" class="links"> Certificate</a> of EFSET)</li>
                     <li>Ukrainian - Native</li>
-                    <li>German - Basic</li>   
-                    <li>Russian - Proficient</li>   
+                    <li>German - Basic</li>
+                    <li>Russian - Proficient</li>
                 </ul>
-               
             </div>
           </div>
     <div class="row ps-5 bg-light pb-3" id="experience">
@@ -102,7 +101,7 @@
         <ul><li>2019-2022</li></ul>
         </div>
         <div class="col-8 ps-5 mt-1">
-        Marketing & Public relations manager (<a href="https://trademaster.ua/" class="links">Trademaster Group</a>, <a href="https://dim-bud.ua/" class="links">Dim Group</a>)
+        Marketing and Public relations manager (<a href="https://trademaster.ua/" class="links">Trademaster Group</a>, <a href="https://dim-bud.ua/" class="links">Dim Group</a>)
         </div>
         <div class="col-4 years mt-1">
         <ul><li>2013-2019</li></ul>
@@ -117,53 +116,54 @@
         Head of department (<a href="https://nads.gov.ua/" class="links">Public administration</a>)
         </div>
     </div>
-        
     <div class="row ps-5 mt-3" id="projects">
         <h2 class="p-heading">Projects:</h2></div>
         <div class="row p-3">
         <div class="col-4 text-center">
-                     <h2>Weather Forecast App</h2> 
+                     <h2>Weather Forecast App</h2>
                      (Built with HTML, CSS and JavaScript)
                      <img src="./images/weather.png" alt="forecast-app" width="250">
-        </div> 
-            
+        </div>
         <div class="col-4 text-center">
-                      <h2>Landing Page</h2> 
+                      <h2>Landing Page</h2>
                        (Built with HTML and CSS)
                        <img src="./images/babyshell.png"  alt="babyshell-project" width="250">
-        </div> 
-               
+        </div>
         <div class="col-4  text-center">
-                      <h2>Multi-Page Website</h2> 
+                      <h2>Multi-Page Website</h2>
                          (Built with HTML and CSS)
                         <img src="./images/portfolio-project.png" alt="babyshell-project" width="250">
          </div>
       </div>
-
       <div class="row text-center">
         <div class="col-4">
                       <a href="https://guileless-souffle-c5aa94.netlify.app/" target="_blank" class="btn btn-primary m-3">Learn more</a>
-        </div> 
-            
+        </div>
         <div class="col-4">
                       <a href="https://luxury-crisp-18cb20.netlify.app/" target="_blank" class="btn btn-primary m-3">Learn more</a>
-        </div> 
-               
+        </div>
         <div class="col-4">
                      <a href="https://majestic-douhua-3bb55c.netlify.app/index.html" target="_blank" class="btn btn-primary m-3">Learn more</a>
          </div>
       </div>
-
-   </div>   
+      <div class="row ps-5 bg-light pb-3" id="code">
+        <h2 class="p-heading">My Code expamle</h2>
+        <p class="code-text">
+          <em>btnResult.addEventListener("click", handleResult);<br><br>
+          function handleResult(){<br>
+          let value = 3.14*Number(userRadius.value)*Number(userRadius.value)*Number(userHeight.value); <br>
+          userResult.innerText = value;}</em>
+        </p>
+      </div>
+   </div>
 </main>
-
  <footer>
     <div class="footer">
       <div class="row">
         <div class="col-2">
         <a href="https://rs.school/" target="_blank"><img src="./images/logo-rsschool3.png" alt="rsschool3-logo" width="100" id="logo" class="logo"></a></div>
     <div class="col-8" id="footer-author">
-    This CV was coded by <a href="https://github.com/yuliamasliak" class="links">Yulia Masliak</a>, and is open-sourced on 
+    This CV was coded by <a href="https://github.com/yuliamasliak" class="links">Yulia Masliak</a>, and is open-sourced on
         <a
           href="https://github.com/yuliaMasliak/rsschool-cv"
           target="_blank"
@@ -174,7 +174,5 @@
     </div>
   </div>
  </footer>
-
-        
 </body>
 </html>
