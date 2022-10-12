@@ -3,14 +3,15 @@
 
 ### Contact information:
 
-**Phone**: +38 095 2805398  
-**E-mail**: 1985kozak@gmail.com  
-**Telegram**: @yuyuliaaa  
+**Phone**: +38 095 2805398
+**E-mail**: 1985kozak@gmail.com
+**Telegram**: @yuyuliaaa
 [LinkedIn](http://linkedin.com/in/yulia-masliak-b3a6ba7a)
 ***
-### Profile summary:  
-Have been working in marketing and public relations for the last 10 years I finally decided to switch and start learning programming. My main goal is to become a professional developer. At first I intend to study fundamentally frontend languages, frameworks etc., but later I plan also try to learn backend languages.  
-Since July 2022 I have been studying on my own, devoting approx. 8 hours per day to learning. I have learned the basic languages of website layout (HTML, CSS) and JavaScript essentials. I have gained an experience in making web pages and multi-page websites using such tools as API, axios, Bootstrap, Google fonts, React.  
+### Profile summary:
+Have been working in marketing and public relations for the last 10 years I finally decided to switch and start learning programming. My main goal is to become a professional developer. At first I intend to study fundamentally frontend languages, frameworks etc., but later I plan also try to learn backend languages.
+
+Since July 2022 I have been studying on my own, devoting approx. 8 hours per day to learning. I have learned the basic languages of website layout (HTML, CSS) and JavaScript essentials. I have gained an experience in making web pages and multi-page websites using such tools as API, axios, Bootstrap, Google fonts, React.
 ***
 ### Skills:
 - HTML, CSS
@@ -20,12 +21,12 @@ Since July 2022 I have been studying on my own, devoting approx. 8 hours per day
 ***
 ### Code example (latest):
 __Task: Write a script that calculates the volume of a cylinder from the parameters that the user entered into inputs__
-   
+
     btnResult.addEventListener("click", handleResult);
     function handleResult() {
     let value = 3.14*Number(userRadius.value)*Number(userRadius.value)*Number(userHeight.value);
     userResult.innerText = value;}
-       
+
 ***
 ### Courses:
 - SheCodes: [Frontend](https://www.shecodes.io/certificates/0bebe6c836722c4777d9e0d23d38195f), [Responsive](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/095/132/original/result.png?1661438918), React(in progress);
