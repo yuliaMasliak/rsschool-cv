@@ -4,8 +4,11 @@
 ### Contact information:
 
 **Phone**: +38 095 2805398
+
 **E-mail**: 1985kozak@gmail.com
+
 **Telegram**: @yuyuliaaa
+
 [LinkedIn](http://linkedin.com/in/yulia-masliak-b3a6ba7a)
 ***
 ### Profile summary:
