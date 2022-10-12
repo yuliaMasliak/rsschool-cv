@@ -38,8 +38,7 @@ body {
     .container {
         background-color: white;
         max-width: 1000px;
-        margin: 130px auto;
-        margin-bottom: 60px;
+        margin: 60px auto;
         border-radius: 8px;
         }
     .about-section {
