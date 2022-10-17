@@ -71,6 +71,14 @@ h2 {
     text-decoration: none;
 color: #5551FF;
 }
+.built-with {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.img-project{
+border: 0.1px solid #e3e3e4;
+border-radius: 7px;
+}
 .btn-primary {
     background-color: #5551FF;
     border: 1px solid #5551FF;
